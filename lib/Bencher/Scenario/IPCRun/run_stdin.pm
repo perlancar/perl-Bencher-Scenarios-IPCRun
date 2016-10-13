@@ -24,7 +24,7 @@ our $scenario = {
     datasets => [
         {args=>{input_size=>0}},
         {args=>{input_size=>1024}},
-        {args=>{input_size=>50*1024}},
+        #{args=>{input_size=>50*1024}}, # also dies when we run under PWP:Bencher::Scenario
         # 1MB causes silent exit, why
     ],
 };

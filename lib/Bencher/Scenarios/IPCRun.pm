@@ -6,4 +6,9 @@ package Bencher::Scenarios::IPCRun;
 1;
 # ABSTRACT: Scenarios to benchmark IPC::Run
 
+=head1 TODO
+
+Show where IPC::Run is slow.
+
+
 =head1 SEE ALSO
