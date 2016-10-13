@@ -10,5 +10,7 @@ package Bencher::Scenarios::IPCRun;
 
 Show where IPC::Run is slow.
 
+run_overhead still sometimes exit.
+
 
 =head1 SEE ALSO
