@@ -2,3 +2,4 @@ Bencher-Scenarios-IPCRun-*
 .build
 *~
 nytprof*
+.DS_Store
